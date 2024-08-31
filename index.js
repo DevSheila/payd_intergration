@@ -29,8 +29,8 @@ app.post("/make-payment", async (req, res) => {
 //  API credentials(pass username and password)
   const axiosConfig = {
     auth: {
-      username: "YOUR_USERNAME",
-      password: "YOUR_PASSOWORD",
+      username: "GO4LbY3myp0xpgWpSH6u",
+      password: "ZkBByCJq0JLCHeLXUbeRs1Xa7mFd9dFLCipK6Xeu",
     },
   };
 
